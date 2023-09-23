@@ -1,0 +1,18 @@
+ body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+#current-time {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+#alarm-input {
+    width: 100px;
+    margin-right: 10px;
+}
+
+#set-alarm-button, #disable-alarm-button, #delete-alarm-button {
+    margin-top: 10px;
+}
